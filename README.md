@@ -1,7 +1,7 @@
 # Hi, I'm Someshwar D 👋
 
 🎓 Final Year B.Tech CSE Student at Dhanalakshmi Srinivasan University, Tamil Nadu  
-💡 Aspiring Data Scientist | Dreaming to work in Dubai 🌏  
+💡 Aspiring Data Scientist |  
 🤝 Co-Builder of [Tamil AI](https://tamil-ai.me) — Open Source AI Platform for Tamil Language Intelligence  
 
 ---
@@ -30,5 +30,5 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]()
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/somesh-dhina-873b373aa)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:someshdhina@gmail.com)
