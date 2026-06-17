@@ -24,9 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Someshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=someshwar-d&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 📫 Let's Connect
