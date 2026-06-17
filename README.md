@@ -1,32 +1,34 @@
 # Hi, I'm Someshwar D 👋
 
-🎓 Final Year CS Student | Dhanalakshmi Srinivasan University
-💡 Aspiring Data Scientist | AI & ML Enthusiast
-🌏 Building Tamil AI — Open Source NLP Platform for Tamil Language
+🎓 Final Year B.Tech CSE Student at Dhanalakshmi Srinivasan University, Tamil Nadu  
+💡 Aspiring Data Scientist | Dreaming to work in Dubai 🌏  
+🤝 Co-Builder of [Tamil AI](https://tamil-ai.me) — Open Source AI Platform for Tamil Language Intelligence  
 
-## 🛠️ Skills
-- Python, FastAPI, Hugging Face Transformers
-- Machine Learning, NLP, RAG Pipelines
-- Vector Databases, Semantic Search
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python
+- **AI/ML:** Scikit-learn, XGBoost, Hugging Face Transformers, IndicTrans2
+- **Backend:** FastAPI
+- **NLP:** RAG Pipelines, Semantic Search, OCR Workflows
+- **Databases:** Vector Databases
+- **Tools:** Git, Jupyter Notebook, VS Code
+
+---
 
 ## 🚀 Projects
-- 🔗 Tamil AI (tamil-ai.me) — Co-Builder
-- 📊 Customer Churn Prediction (In Progress)
+| Project | Description | Status |
+|---|---|---|
+| 🌐 [Tamil AI](https://tamil-ai.me) | Open Source NLP Platform for Tamil Language | 🟢 Active |
+| 📊 Customer Churn Prediction | ML project to predict telecom customer churn | 🔄 In Progress |
 
-## 📫 Contact
-- LinkedIn: [your link]## Hi there 👋
+---
 
-<!--
-**someshdhina/someshdhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+![Someshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=someshwar-d&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]()
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your-email)
