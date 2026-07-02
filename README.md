@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist | Python Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Always+Learning+New+Skills;Building+Projects+Every+Week" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Always+Learning+New+Skills;Building+Projects+Every+Week" alt="Typing SVG" />
 </p>
 
 ---
