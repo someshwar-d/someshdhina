@@ -43,12 +43,12 @@
 
 ## 📖 Currently Learning
 
-* 🐍 Python Programming
-* 🗄 SQL & Database Management
-* 📊 Data Analysis
-* 📈 Data Visualization
-* 🤖 Machine Learning
-* 🧠 Statistics for Data Science
+*  Python Programming
+*  SQL & Database Management
+*  Data Analysis
+*  Data Visualization
+*  Machine Learning
+*  Statistics for Data Science
 
 ---
 ## 🚀 Projects
@@ -76,7 +76,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwar-d&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -86,7 +86,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=someshwar-d&theme=tokyo-night"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=someshwar-d&theme=tokyonight&margin-w=10"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@
 ## 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=someshwar-d&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
