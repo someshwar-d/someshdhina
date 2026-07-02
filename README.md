@@ -1,21 +1,60 @@
-# Hi, I'm Someshwar D 👋
+# 👋 Hi, I'm Somesh Dhina
 
-🎓 Final Year B.Tech CSE Student at Dhanalakshmi Srinivasan University, Tamil Nadu  
-⚡ Aspiring Data Scientist   
-🤝 Co-Builder of [Tamil AI](https://tamil-ai.me) — Open Source AI Platform for Tamil Language Intelligence  
+<h3 align="center">🚀 Aspiring Data Scientist | Python Developer | SQL Learner | AI Enthusiast</h3>
 
----
-
-## 🛠️ Tech Stack
-- **Languages:** Python
-- **AI/ML:** Scikit-learn, XGBoost, Hugging Face Transformers, IndicTrans2
-- **Backend:** FastAPI
-- **NLP:** RAG Pipelines, Semantic Search, OCR Workflows
-- **Databases:** Vector Databases
-- **Tools:** Git, Jupyter Notebook, VS Code
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Always+Learning+New+Skills;Building+Projects+Every+Week" alt="Typing SVG" />
+</p>
 
 ---
 
+## 👨‍💻 About Me
+
+* 🎓 Aspiring **Data Scientist**
+* 🌱 Currently learning **Python, SQL, Data Science & Machine Learning**
+* 💻 Passionate about solving real-world problems using data
+* 📚 Learning step by step and building projects
+* 🎯 Goal: Become a Data Scientist in a top tech company
+* 📍 Tamil Nadu, India
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,anaconda,jupyter,linux,html,css" />
+</p>
+
+---
+
+## 📖 Currently Learning
+
+* 🐍 Python Programming
+* 🗄 SQL & Database Management
+* 📊 Data Analysis
+* 📈 Data Visualization
+* 🤖 Machine Learning
+* 🧠 Statistics for Data Science
+
+---
 ## 🚀 Projects
 | Project | Description | Status |
 |---|---|---|
@@ -24,8 +63,67 @@
 
 ---
 
+## 🛠 Tools I Use
+
+* VS Code
+* Git
+* GitHub
+* Jupyter Notebook
+* Anaconda
+* MySQL
+
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/somesh-dhina-873b373aa)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:someshdhina@gmail.com)
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=10"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## 💡 Quote of the Day
+
+> "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
