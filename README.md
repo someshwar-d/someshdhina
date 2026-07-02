@@ -1,4 +1,4 @@
-#  Hi, I'm Somesh Dhina
+#  Hi, I'm Someshwar D
 
 <h3 align="center">🚀 Aspiring Data Scientist | Python Developer | AI Enthusiast</h3>
 
