@@ -78,12 +78,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=somshwar-d&theme=tokyonight&margin-w=10" />
-
----
-
 ## 👀 Profile Views
 
 <p align="left">
