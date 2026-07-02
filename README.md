@@ -70,13 +70,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshwar-d&layout=compact&theme=tokyonight" />
-
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -87,9 +80,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=someshwar-d&theme=tokyonight&margin-w=10"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=somshwar-d&theme=tokyonight&margin-w=10" />
 
 ---
 
