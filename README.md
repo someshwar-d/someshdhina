@@ -10,12 +10,12 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Aspiring **Data Scientist**
-* 🌱 Currently learning **Python, SQL, Data Science & Machine Learning**
-* 💻 Passionate about solving real-world problems using data
-* 📚 Learning step by step and building projects
-* 🎯 Goal: Become a Data Scientist in a top tech company
-* 📍 Tamil Nadu, India
+*  Aspiring **Data Scientist**
+*  Currently learning **Python, SQL, Data Science & Machine Learning**
+*  Passionate about solving real-world problems using data
+*  Learning step by step and building projects
+*  Goal: Become a Data Scientist in a top tech company
+*  Tamil Nadu, India
 
 ---
 
@@ -84,13 +84,6 @@
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
 
 ---
 
